@@ -1,0 +1,11 @@
+Package: SurveyBuilder
+Type: Package
+Title: An Package for Building ODK Surveys
+Version: 0.1.0
+Authors@R: person("Léo", "Gorman", email = "lgorman@turing.ac.uk",
+                  role = c("aut", "cre"))
+Description: This package is designed to create an ODK survey based
+    on a localisation form and a 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
